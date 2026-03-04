@@ -1,4 +1,4 @@
-# Task 1 — Process the Scores
+# Task 1 — Process the Score
 def process_scores(students):
     averages = {}
     
